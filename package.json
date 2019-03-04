@@ -5,6 +5,10 @@
   "main": "index.js",
   "author": "Molo",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Arafly/file-upload-express.git"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "del": "^3.0.0",
